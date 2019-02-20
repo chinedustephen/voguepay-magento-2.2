@@ -1,7 +1,7 @@
 # Magento 2.2 Voguepay Payment Gateway
 
  - **Contributors:** stephen nkwocha
- - **Tags:** voguepay, magento 2, payment gateway, bank account, credit card, debit card, nigeria, kenya, international, mastercard, visa
+ - **Tags:** voguepay, magento 2, payment gateway, wallet payment, credit card, debit card, nigeria, international, mastercard, visa
  - **Tested with:** PHP 7.1+, Magento CE 2.2.5
  - **Stable tag:** Still in BETA
  - **License:** GPL-3 - see LICENSE.txt
@@ -56,7 +56,7 @@ Configuration can be done using the Administrator section of your Magento store.
 
 ### Suggestions / Contributions
 
-For issues and feature request, [click here](https://github.com/bosunolanrewaju/magento-rave/issues).
+For issues and feature request, [click here](https://github.com/chinedustephen/voguepay-magento-2.2/issues).
 To contribute, fork the repo, add your changes and modifications then create a pull request.
 
 
